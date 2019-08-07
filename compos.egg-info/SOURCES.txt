@@ -1,0 +1,8 @@
+setup.py
+compos/__init__.py
+compos/compos.py
+compos.egg-info/PKG-INFO
+compos.egg-info/SOURCES.txt
+compos.egg-info/dependency_links.txt
+compos.egg-info/requires.txt
+compos.egg-info/top_level.txt
